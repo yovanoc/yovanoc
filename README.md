@@ -6,7 +6,7 @@ Web developer
 
 * 🌍  I'm based in Lille, France 🇫🇷
 * 🖥️  See my portfolio at [DevChris](http://devchris.me)
-* ✉️  You can contact me at [yovano\_c@outloook.com](mailto:yovano_c@outloook.com)
+* ✉️  You can contact me at [yovano\_c@outlook.com](mailto:yovano_c@outlook.com)
 * 🚀  I'm currently working on [Secrecy](http://secrecy.me)
 
 <a href="https://www.github.com/yovanoc" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/yovanoc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/yovano_c" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/yovano_c?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
