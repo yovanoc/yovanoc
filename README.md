@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-* 🌍  I'm based in Lille
-* 🖥️  See my portfolio at [DevChris](http://devchris.me)
+* 🌍  I'm based in Lille, France 🇫🇷
+* 🖥️  See my portfolio at [DevChris](http://devchris.me)
 * ✉️  You can contact me at [yovano\_c@outloook.com](mailto:yovano_c@outloook.com)
 * 🚀  I'm currently working on [Secrecy](http://secrecy.me)
 
